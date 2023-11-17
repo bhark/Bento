@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Adrian',
+	name: 'din bøv',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Mytisk morgen!',
+	greetingMorning: 'God mytisk morgen,',
 	greetingAfternoon: 'Eventyrlig eftermiddag,',
-	greetingEvening: 'Fuck hjemad nu...',
-	greetingNight: 'Den er heeelt gal!',
+	greetingEvening: 'Fuck hjemad nu,',
+	greetingNight: 'Den er heeelt gal,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
